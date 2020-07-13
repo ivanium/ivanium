@@ -1,6 +1,10 @@
-### Hi there 👋
+Truth can be known, but it may not be the well-known truth.
+
+道可道，非常道。
 
 <!--
+### Hi there 👋
+
 **ivanium/ivanium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
