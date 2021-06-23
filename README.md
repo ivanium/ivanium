@@ -2,8 +2,6 @@ Truth can be known, but it may not be the well-known truth.
 
 道可道，非常道。
 
-许老千古
-
 <!--
 ### Hi there 👋
 
